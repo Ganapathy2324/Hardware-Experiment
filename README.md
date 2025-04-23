@@ -12,6 +12,7 @@
 
 ## DM
 ![WhatsApp Image 2025-04-22 at 13 30 50_40b15fa8](https://github.com/user-attachments/assets/657692cd-d77c-47c7-a2fb-372c2c5f6b46)
-## Amplitude Shift Keying (ASK)
-![WhatsApp Image 2025-04-22 at 13 30 50_6c94a514](https://github.com/user-attachments/assets/deb6c7ea-dcf7-46cd-a9f4-c1be287e6c27)
+
+## Line Coding
+![WhatsApp Image 2025-04-23 at 19 56 40_d4aeae1b](https://github.com/user-attachments/assets/ead11287-7f01-46d7-8eab-901139a889f4)
 
